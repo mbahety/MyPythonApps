@@ -1,0 +1,9 @@
+cd ~/desktop/
+cd mypythonapps
+ls
+git status
+git log
+git remote -v
+git add .
+git commit -m "changes made details here"
+git push origin master
